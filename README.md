@@ -1,7 +1,7 @@
 ## Wassup?
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imayushshivam&show_icons=true&theme=radical) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imayushshivam&hide=contribs,prs) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imayushshivam&theme=great-gatsby&show_icons=true&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imayushshivam&theme=great-gatsby&show_icons=true&hide=prs)
 
 
 <br></br>
