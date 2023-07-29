@@ -7,7 +7,7 @@
 
 
 <br></br>
-Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{imayushshivam}/count.svg)
+<!-- Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{imayushshivam}/count.svg) -->
   
 <br></br>
 <hr>
