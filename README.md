@@ -101,7 +101,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
 
 **Other / Miscellaneous:**  
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) 
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=elasticsearch) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) 
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) 
