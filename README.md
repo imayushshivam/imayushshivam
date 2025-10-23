@@ -371,11 +371,11 @@
 
 <div align="center">
   <!-- 3D contribution chart -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imayushshivam/imayushshivam/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imayushshivam/imayushshivam/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imayushshivam/imayushshivam/output/github-contribution-grid-snake.svg">
-  </picture>
+  </picture> -->
 
   <!-- Modern stat cards with consistent styling -->
   <img src="https://github-readme-stats.vercel.app/api?username=imayushshivam&show_icons=true&count_private=true&theme=tokyonight&title_color=6366F1&icon_color=F472B6&text_color=CBD5E1&bg_color=0D1117&hide_border=true&border_radius=10" width="49%" alt="GitHub Stats" />
