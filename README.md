@@ -38,23 +38,19 @@
 
 <!-- Modern 3D-style social media icons -->
 <div align="center">
-  <a href="https://linkedin.com/in/ayushshivam" target="_blank">
+  <a href="https://linkedin.com/in/ayushshivam" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" width="140" height="40" />
   </a>
-  &nbsp;
-  <a href="https://x.com/imayushshivam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" width="140" height="40" />
+  <a href="https://x.com/imayushshivam" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (formerly Twitter)" width="140" height="40" />
   </a>
-  &nbsp;
-  <a href="https://medium.com/@ayushshivampandey" target="_blank">
+  <a href="https://medium.com/@ayushshivampandey" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" width="140" height="40" />
   </a>
-  &nbsp;
-  <a href="mailto:ayushshivampandey@gmail.com" target="_blank">
+  <a href="mailto:ayushshivampandey@gmail.com" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" width="140" height="40" />
   </a>
-  &nbsp;
-  <a href="https://codepen.io/imayushshivam" target="_blank">
+  <a href="https://codepen.io/imayushshivam" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen" width="140" height="40" />
   </a>
 </div>
