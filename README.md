@@ -63,9 +63,9 @@
 
 <!-- Responsive project cards with proper styling -->
 <div align="center">
-  <table>
+  <table border="0" style="border: none; border-collapse: collapse;">
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: none;">
         <h3 align="center">We-C-List</h3>
         <div align="center">
           <a href="https://github.com/imayushshivam/we-c-list" target="_blank">
@@ -83,7 +83,7 @@
           <p>A modern classified product wishlisting Shopify app with advanced filtering and user management capabilities.</p>
         </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" style="border: none;">
         <h3 align="center">Food-Del</h3>
         <div align="center">
           <a href="https://github.com/imayushshivam/food-del" target="_blank">
@@ -119,26 +119,26 @@
 
 <!-- Sleek blog post cards -->
 <div align="center">
-  <table style="border-collapse: separate; border-spacing: 0 15px; background: transparent;">
+  <table style="border-collapse: separate; border-spacing: 0 15px; background: transparent; border: none;">
     <tr>
-      <td style="width: 30%; padding: 0;">
+      <td style="width: 30%; padding: 0; border: none;">
         <a href="https://medium.com/@ayushshivampandey/backend-engineering-best-practices" target="_blank">
           <img src="https://miro.medium.com/v2/resize:fit:1400/0*M4bxiCIjcTK-2Xr6.jpeg" alt="Backend Engineering article" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
         </a>
       </td>
-      <td style="padding: 0 0 0 20px;">
+      <td style="padding: 0 0 0 20px; border: none;">
         <a href="https://medium.com/@ayushshivampandey/backend-engineering-best-practices" style="font-size: 20px; color: #58a6ff; text-decoration: none; font-weight: bold;">Building Scalable Backend Systems with Python and FastAPI</a>
         <p style="margin: 8px 0; color: #c9d1d9;">Learn how to create high-performance APIs using Python's FastAPI framework with practical examples and best practices for scaling your infrastructure.</p>
         <p style="color: #8b949e; margin: 0;">May 15, 2023 · 8 min read · <a href="https://medium.com/tag/backend" style="color: #58a6ff; text-decoration: none;">Backend</a></p>
       </td>
     </tr>
     <tr>
-      <td style="width: 30%; padding: 0;">
+      <td style="width: 30%; padding: 0; border: none;">
         <a href="https://medium.com/@ayushshivampandey/kubernetes-for-beginners" target="_blank">
           <img src="https://miro.medium.com/v2/resize:fit:1400/0*1sjgEfbVFScn73Et.png" alt="Kubernetes article" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
         </a>
       </td>
-      <td style="padding: 0 0 0 20px;">
+      <td style="padding: 0 0 0 20px; border: none;">
         <a href="https://medium.com/@ayushshivampandey/kubernetes-for-beginners" style="font-size: 20px; color: #58a6ff; text-decoration: none; font-weight: bold;">Kubernetes for Beginners: A Practical Guide</a>
         <p style="margin: 8px 0; color: #c9d1d9;">A step-by-step introduction to container orchestration with Kubernetes for developers looking to deploy scalable applications in production.</p>
         <p style="color: #8b949e; margin: 0;">March 22, 2023 · 12 min read · <a href="https://medium.com/tag/kubernetes" style="color: #58a6ff; text-decoration: none;">Kubernetes</a></p>
@@ -163,43 +163,43 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
 
 <!-- Primary Tech Stack with Icons in Cards -->
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/>
       <br><strong>Python</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/>
       <br><strong>TypeScript</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/>
       <br><strong>JavaScript</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django icon"/>
       <br><strong>Django</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="FastAPI icon"/>
       <br><strong>FastAPI</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js icon"/>
       <br><strong>Node.js</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/>
       <br><strong>React</strong>
     </td>
   </tr>
   <tr>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/>
       <br><strong>AWS</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/>
       <br><strong>Docker</strong>
     </td>
@@ -207,19 +207,19 @@
       <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Kubernetes icon"/>
       <br><strong>Kubernetes</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB icon"/>
       <br><strong>MongoDB</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/>
       <br><strong>PostgreSQL</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis icon"/>
       <br><strong>Redis</strong>
     </td>
-    <td align="center" width="140" height="112.43">
+    <td align="center" width="140" height="112.43" style="border: none;">
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/>
       <br><strong>Git</strong>
     </td>
