@@ -163,48 +163,52 @@
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
 
 <!-- Primary Tech Stack with Icons in Cards -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br><strong>Python</strong>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br><strong>Python</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br><strong>TypeScript</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br><strong>JavaScript</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django icon"/><br><strong>Django</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="FastAPI icon"/><br><strong>FastAPI</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js icon"/><br><strong>Node.js</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br><strong>React</strong>
+    </div>
   </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br><strong>TypeScript</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/><br><strong>JavaScript</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django icon"/><br><strong>Django</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="FastAPI icon"/><br><strong>FastAPI</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js icon"/><br><strong>Node.js</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br><strong>React</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/><br><strong>AWS</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/><br><strong>Docker</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Kubernetes icon"/><br><strong>Kubernetes</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB icon"/><br><strong>MongoDB</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/><br><strong>PostgreSQL</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis icon"/><br><strong>Redis</strong>
-  </div>
-  <div align="center" style="width: 140px; height: 112.43px;">
-    <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br><strong>Git</strong>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/><br><strong>AWS</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/><br><strong>Docker</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Kubernetes icon"/><br><strong>Kubernetes</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB icon"/><br><strong>MongoDB</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/><br><strong>PostgreSQL</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis icon"/><br><strong>Redis</strong>
+    </div>
+    <div align="center" style="width: 140px; height: 112.43px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br><strong>Git</strong>
+    </div>
   </div>
 </div>
 
