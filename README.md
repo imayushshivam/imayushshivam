@@ -26,17 +26,40 @@
 
 <div align="center">
   <a href="https://github.com/imayushshivam/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imayushshivam&repo=YourRepoName&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imayushshivam&repo=we-c-list&theme=tokyonight" />
   </a>
   <a href="https://github.com/imayushshivam/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imayushshivam&repo=YourOtherRepoName&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imayushshivam&repo=food-del&theme=tokyonight" />
   </a>
 </div>
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated with your latest Medium posts using GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
+<table>
+  <tr>
+    <td width="300px">
+      <a href="https://medium.com/@ayushshivampandey/your-post-1">
+        <img src="https://miro.medium.com/max/1400/0*Z-l_1pSZDwQYDmwz" alt="Blog post image" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@ayushshivampandey/your-post-1" style="font-weight: bold; font-size: 18px;">Building Scalable Backend Systems with Python and FastAPI</a>
+      <p>Learn how to create high-performance APIs using Python's FastAPI framework with practical examples and best practices...</p>
+      <p>May 15, 2023 · 8 min read · <a href="https://medium.com/tag/backend">Backend</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="300px">
+      <a href="https://medium.com/@ayushshivampandey/your-post-2">
+        <img src="https://miro.medium.com/max/1400/0*C9U2NwnCM_0y-kHS" alt="Blog post image" width="100%">
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@ayushshivampandey/your-post-2" style="font-weight: bold; font-size: 18px;">Kubernetes for Beginners: A Practical Guide</a>
+      <p>A step-by-step introduction to container orchestration with Kubernetes for developers looking to deploy scalable applications...</p>
+      <p>March 22, 2023 · 12 min read · <a href="https://medium.com/tag/kubernetes">Kubernetes</a></p>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Tech Stack
 
@@ -151,7 +174,7 @@
 <!-- Spotify Now Playing -->
 <div align="center">
   
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1)
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31i74qthyolmrtbwnkpdeqmbnrde&count=1)
   
 </div>
 
