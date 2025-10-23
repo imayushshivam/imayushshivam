@@ -18,9 +18,9 @@
 
 > 🧑‍💻 Software Engineer specializing in scalable backend systems and distributed architecture.
 
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" border="0" cellspacing="0" cellpadding="20" style="border:none; border-collapse:collapse;">
   <tr>
-    <td width="50%" valign="middle">
+    <td width="50%" valign="middle" style="border:none;">
       <br/>
       💥 Building, breaking, deploying — repeat <br><br>
       👨🏾‍💻 Breaking prod so you don't have to <br><br>
@@ -28,7 +28,7 @@
       🚀 From Shopify themes to backend dreams <br><br>
       🐍 Clean APIs. Dirty commits. Happy servers
     </td>
-    <td width="50%" valign="middle" align="center">
+    <td width="50%" valign="middle" align="center" style="border:none;">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="100%" />
     </td>
   </tr>
