@@ -18,9 +18,9 @@
 
 > 🧑‍💻 Software Engineer specializing in scalable backend systems and distributed architecture.
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="middle" style="height: 300px; padding: 20px;">
+    <td width="50%" valign="middle" style="height: 300px; padding: 20px; border: none;">
       <br/>
       💥 Building, breaking, deploying — repeat <br><br>
       👨🏾‍💻 Breaking prod so you don't have to <br><br>
@@ -28,7 +28,7 @@
       🚀 From Shopify themes to backend dreams <br><br>
       🐍 Clean APIs. Dirty commits. Happy servers
     </td>
-    <td width="50%" valign="middle" style="height: 300px; padding: 20px;">
+    <td width="50%" valign="middle" style="height: 300px; padding: 20px; border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="100%" style="max-height: 300px; object-fit: contain;" />
     </td>
   </tr>
@@ -331,7 +331,7 @@
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
 
 <!-- ### 📈 Technology Proficiency -->
 
@@ -393,39 +393,34 @@
 ## 💡 Skills Spotlight
 
 <div align="center">
-  <!-- Modern tech icons with animation effects -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <!-- <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Python" /> -->
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" />
-      <span>Python</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <!-- <img src="https://user-images.githubusercontent.com/94888819/179353484-5e88d582-ebf5-4a23-a233-3bdf37363e9d.gif" width="100" alt="AWS" /> -->
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="100" />
-      <span>AWS</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100" alt="Docker" /> -->
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" />
-      <span>Docker</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="100" alt="Kubernetes" /> -->
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" />
-      <span>Kubernetes</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <!-- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="100" alt="Django" /> -->
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="100" />
-      <span>Django</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React" /> -->
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" />
-      <span>React</span>
-    </div>
-  </div>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="150" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
+        <br><strong>Python</strong>
+      </td>
+      <td align="center" width="150" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="100" height="100" />
+        <br><strong>AWS</strong>
+      </td>
+      <td align="center" width="150" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height="100" />
+        <br><strong>Docker</strong>
+      </td>
+      <td align="center" width="150" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" height="100" />
+        <br><strong>Kubernetes</strong>
+      </td>
+      <td align="center" width="150" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="100" height="100" />
+        <br><strong>Django</strong>
+      </td>
+      <td align="center" width="150" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" height="100" />
+        <br><strong>React</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 GitHub Trophies
