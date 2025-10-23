@@ -378,8 +378,10 @@
   </picture> -->
 
   <!-- Modern stat cards with consistent styling -->
-  <img src="https://github-readme-stats.vercel.app/api?username=imayushshivam&show_icons=true&count_private=true&theme=tokyonight&title_color=6366F1&icon_color=F472B6&text_color=CBD5E1&bg_color=0D1117&hide_border=true&border_radius=10" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imayushshivam&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6366F1&fire=F472B6&currStreakNum=F472B6&currStreakLabel=CBD5E1&sideNums=6366F1&sideLabels=CBD5E1&border_radius=10" width="49%" alt="GitHub Streak Stats" />
+  <div style="display:flex; gap:2%; align-items:center; width:100%; flex-wrap:wrap; box-sizing:border-box;">
+    <img src="https://github-readme-stats.vercel.app/api?username=imayushshivam&show_icons=true&count_private=true&theme=tokyonight&title_color=6366F1&icon_color=F472B6&text_color=CBD5E1&bg_color=0D1117&hide_border=true&border_radius=10" style="flex:1 1 49%; min-width:280px; max-height:300px; width:100%; height:auto; object-fit:contain; border-radius:8px; box-sizing:border-box; padding:6px;" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imayushshivam&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6366F1&fire=F472B6&currStreakNum=F472B6&currStreakLabel=CBD5E1&sideNums=6366F1&sideLabels=CBD5E1&border_radius=10" style="flex:1 1 49%; min-width:280px; max-height:300px; width:100%; height:auto; object-fit:contain; border-radius:8px; box-sizing:border-box; padding:6px;" alt="GitHub Streak Stats" />
+  </div>
   
   <!-- Language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayushshivam&layout=compact&theme=tokyonight&title_color=6366F1&text_color=CBD5E1&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" width="58%" alt="Top Languages" />
