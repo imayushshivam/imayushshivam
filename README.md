@@ -18,9 +18,9 @@
 
 > 🧑‍💻 Software Engineer specializing in scalable backend systems and distributed architecture.
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="50%" valign="middle" style="height: 300px; padding: 20px; border: none;">
+    <td width="50%" valign="middle">
       <br/>
       💥 Building, breaking, deploying — repeat <br><br>
       👨🏾‍💻 Breaking prod so you don't have to <br><br>
@@ -28,8 +28,8 @@
       🚀 From Shopify themes to backend dreams <br><br>
       🐍 Clean APIs. Dirty commits. Happy servers
     </td>
-    <td width="50%" valign="middle" style="height: 300px; padding: 20px; border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="100%" style="max-height: 300px; object-fit: contain;" />
+    <td width="50%" valign="middle" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="100%" />
     </td>
   </tr>
 </table>
@@ -39,23 +39,23 @@
 <!-- Modern 3D-style social media icons -->
 <div align="center">
   <a href="https://linkedin.com/in/ayushshivam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" style="width:130px; height:30px; object-fit:contain;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" width="140" height="40" />
   </a>
   &nbsp;
   <a href="https://x.com/imayushshivam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" style="width:130px; height:30px; object-fit:contain;" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" width="140" height="40" />
   </a>
   &nbsp;
   <a href="https://medium.com/@ayushshivampandey" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" style="width:130px; height:35px; object-fit:contain;" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" width="140" height="40" />
   </a>
   &nbsp;
   <a href="mailto:ayushshivampandey@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="width:130px; height:30px; object-fit:contain;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" width="140" height="40" />
   </a>
   &nbsp;
   <a href="https://codepen.io/imayushshivam" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen" style="width:130px; height:40px; object-fit:contain;" />
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen" width="140" height="40" />
   </a>
 </div>
 
@@ -384,7 +384,7 @@
   </div>
   
   <!-- Language stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayushshivam&layout=compact&theme=tokyonight&title_color=6366F1&text_color=CBD5E1&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" width="58%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayushshivam&layout=compact&theme=tokyonight&title_color=6366F1&text_color=CBD5E1&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" width="60%" alt="Top Languages" />
   
   <!-- Modern 3D commit graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -399,32 +399,32 @@
   <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: nowrap; gap: 20px; align-items: center; overflow-x: auto; white-space: nowrap;">
     <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Python" /> -->
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
       <span>Python</span>
     </div>
     <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://user-images.githubusercontent.com/94888819/179353484-5e88d582-ebf5-4a23-a233-3bdf37363e9d.gif" width="100" alt="AWS" /> -->
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="100" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="100" height="100" />
       <span>AWS</span>
     </div>
     <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100" alt="Docker" /> -->
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height="100" />
       <span>Docker</span>
     </div>
     <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="100" alt="Kubernetes" /> -->
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" height="100" />
       <span>Kubernetes</span>
     </div>
     <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="100" alt="Django" /> -->
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="100" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="100" height="100" />
       <span>Django</span>
     </div>
     <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React" /> -->
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" height="100" />
       <span>React</span>
     </div>
   </div>
