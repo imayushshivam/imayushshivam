@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&width=435&lines=Ayush+Shivam;Backend+Engineer;System+Designer;API+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&width=435&lines=Ayush+🥂;Backend+Engineer;System+Designer;API+Architect" alt="Typing SVG" />
   <br/>
   <img src="https://github.com/imayushshivam/imayushshivam/blob/main/header.png" alt="banner" width="100%">
 </div>
@@ -173,9 +173,10 @@
 
 <!-- Spotify Now Playing -->
 <div align="center">
-  
-  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31i74qthyolmrtbwnkpdeqmbnrde&count=1)
-  
+  <h3>🎧 Currently Vibing To</h3>
+  <a href="https://open.spotify.com/user/31i74qthyolmrtbwnkpdeqmbnrde">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=ffffff" alt="Spotify Now Playing" width="70%" />
+  </a>
 </div>
 
 ---
