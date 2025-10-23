@@ -396,33 +396,33 @@
 
 <div align="center">
   <!-- Modern tech icons with animation effects -->
-  <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px; align-items: center; overflow-x: auto;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: nowrap; gap: 20px; align-items: center; overflow-x: auto; white-space: nowrap;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Python" /> -->
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" />
       <span>Python</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://user-images.githubusercontent.com/94888819/179353484-5e88d582-ebf5-4a23-a233-3bdf37363e9d.gif" width="100" alt="AWS" /> -->
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="100" />
       <span>AWS</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100" alt="Docker" /> -->
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" />
       <span>Docker</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="100" alt="Kubernetes" /> -->
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" />
       <span>Kubernetes</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="100" alt="Django" /> -->
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="100" />
       <span>Django</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;">
       <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React" /> -->
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" />
       <span>React</span>
