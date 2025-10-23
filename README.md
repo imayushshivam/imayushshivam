@@ -1,128 +1,454 @@
-# 💫 About Me:
-🧑‍💻 Software Engineer | ⚙️ Backend Specialist <br>💥 Building, breaking, deploying — repeat.  <br>👨🏾‍💻 Breaking prod so you don’t have to.  <br>🧠 Learning system design one outage at a time.  <br>🚀 From Shopify themes to backend dreams.<br>🐍 Clean APIs. Dirty commits. Happy servers.
+<div align="center">
+  <!-- Ultra-modern animated header with glitch effect -->
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=200&section=header&text=Ayush&fontSize=70&fontAlignY=35&desc=Backend%20Engineering%20Wizard%20|%20System%20Architect&descAlignY=60&animation=twinkling" width="100%"/></a>
+  
+  <!-- Modern animated text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=API+Craftsman;Cloud+Infrastructure+Expert;Scalability+Specialist;Performance+Optimizer" alt="Typing SVG" />
+  </a>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-3949AB?style=for-the-badge&logo=Codacy&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Lives-India-4CAF50?style=for-the-badge&logo=GoogleMaps&logoColor=white&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-FF9800?style=for-the-badge&logo=Duolingo&logoColor=white&labelColor=0D1117" />
+  </div>
+</div>
 
+## 👨‍💻 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushshivam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imayushshivam) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/imayushshivam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushshivampandey@gmail.com) <br>- 📝 I regularly write articles on [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayushshivampandey)
+> 🧑‍💻 Software Engineer specializing in scalable backend systems and distributed architecture.
 
-# 💻 Tech Stack:
+<table width="100%" border="0" cellspacing="0" cellpadding="20" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td width="50%" valign="middle" style="border:none;">
+      <br/>
+      💥 Building, breaking, deploying — repeat <br><br>
+      👨🏾‍💻 Breaking prod so you don't have to <br><br>
+      🧠 Learning system design one outage at a time <br><br>
+      🚀 From Shopify themes to backend dreams <br><br>
+      🐍 Clean APIs. Dirty commits. Happy servers
+    </td>
+    <td width="50%" valign="middle" align="center" style="border:none;">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
-**Languages:**  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
+## 🌐 Connect With Me
 
-**Frameworks & Libraries:**  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) 
-![Remix](https://img.shields.io/badge/remix-%23000.svg?style=plastic&logo=remix&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) 
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=plastic&logo=bun&logoColor=white) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) 
+<!-- Modern 3D-style social media icons -->
+<div align="center">
+  <a href="https://linkedin.com/in/ayushshivam" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" width="140" height="40" />
+  </a>
+  <a href="https://x.com/imayushshivam" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (formerly Twitter)" width="140" height="40" />
+  </a>
+  <a href="https://medium.com/@ayushshivampandey" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium" width="140" height="40" />
+  </a>
+  <a href="mailto:ayushshivampandey@gmail.com" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" width="140" height="40" />
+  </a>
+  <a href="https://codepen.io/imayushshivam" target="_blank" style="display:inline-block; margin:6px 10px; padding:6px 12px; border:2px solid rgba(99,102,241,0.4); border-radius:12px; background:#0D1117; box-shadow:0 6px 16px rgba(15,23,42,0.4);">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000" alt="CodePen" width="140" height="40" />
+  </a>
+</div>
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) 
-![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=plastic&logo=dgraph&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) 
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+## 🔥 Featured Projects
 
-**DevOps & Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) 
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
+<!-- Responsive project cards with proper styling -->
+<div align="center">
+  <table border="0" style="border: none; border-collapse: collapse;">
+    <tr>
+      <td width="50%" valign="top" style="border: none;">
+        <h3 align="center">We-C-List</h3>
+        <div align="center">
+          <a href="https://github.com/imayushshivam/we-c-list" target="_blank">
+            <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=500&h=300&fit=crop" alt="We-C-List Project" width="100%" style="border-radius: 10px; margin-bottom: 15px;" />
+          </a>
+          <p>
+            <a href="https://github.com/imayushshivam/we-c-list" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-5568FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Remix, JavaScript, Shopify</strong></p>
+          <p>A modern classified product wishlisting Shopify app with advanced filtering and user management capabilities.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="border: none;">
+        <h3 align="center">Food-Del</h3>
+        <div align="center">
+          <a href="https://github.com/imayushshivam/food-del" target="_blank">
+            <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&h=300&fit=crop" alt="Food-Del Project" width="100%" style="border-radius: 10px; margin-bottom: 15px;" />
+          </a>
+          <p>
+            <a href="https://github.com/imayushshivam/food-del" target="_blank">
+              <img src="https://img.shields.io/badge/CODE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://tomato-asp.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/DEMO-5568FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, Node.js, MongoDB, Stripe</strong></p>
+          <p>Full-stack food delivery application with real-time order tracking, payment processing, and admin dashboard.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Testing & CI/CD:**  
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+<!-- GitHub Stats Cards for Projects -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/imayushshivam/we-c-list">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imayushshivam&repo=we-c-list&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F472B6&text_color=CBD5E1" width="48%" />
+  </a>
+  <a href="https://github.com/imayushshivam/food-del">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imayushshivam&repo=food-del&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=F472B6&text_color=CBD5E1" width="48%" />
+  </a>
+</div>
 
-**APIs & Tools:**  
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) 
+## 📝 Latest Blog Posts
 
-**Data Science & ML:**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
+<!-- Sleek blog post cards -->
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 0 15px; background: transparent; border: none;">
+    <tr>
+      <td style="width: 30%; padding: 0; border: none;">
+        <a href="https://medium.com/@ayushshivampandey/backend-engineering-best-practices" target="_blank">
+          <img src="https://miro.medium.com/v2/resize:fit:1400/0*M4bxiCIjcTK-2Xr6.jpeg" alt="Backend Engineering article" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
+      </td>
+      <td style="padding: 0 0 0 20px; border: none;">
+        <a href="https://medium.com/@ayushshivampandey/backend-engineering-best-practices" style="font-size: 20px; color: #58a6ff; text-decoration: none; font-weight: bold;">Building Scalable Backend Systems with Python and FastAPI</a>
+        <p style="margin: 8px 0; color: #c9d1d9;">Learn how to create high-performance APIs using Python's FastAPI framework with practical examples and best practices for scaling your infrastructure.</p>
+        <p style="color: #8b949e; margin: 0;">May 15, 2023 · 8 min read · <a href="https://medium.com/tag/backend" style="color: #58a6ff; text-decoration: none;">Backend</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 30%; padding: 0; border: none;">
+        <a href="https://medium.com/@ayushshivampandey/kubernetes-for-beginners" target="_blank">
+          <img src="https://miro.medium.com/v2/resize:fit:1400/0*1sjgEfbVFScn73Et.png" alt="Kubernetes article" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
+      </td>
+      <td style="padding: 0 0 0 20px; border: none;">
+        <a href="https://medium.com/@ayushshivampandey/kubernetes-for-beginners" style="font-size: 20px; color: #58a6ff; text-decoration: none; font-weight: bold;">Kubernetes for Beginners: A Practical Guide</a>
+        <p style="margin: 8px 0; color: #c9d1d9;">A step-by-step introduction to container orchestration with Kubernetes for developers looking to deploy scalable applications in production.</p>
+        <p style="color: #8b949e; margin: 0;">March 22, 2023 · 12 min read · <a href="https://medium.com/tag/kubernetes" style="color: #58a6ff; text-decoration: none;">Kubernetes</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Design & Productivity:**  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
+<div align="center" style="margin-top: 20px;">
+  <a href="https://medium.com/@ayushshivampandey" target="_blank">
+    <img src="https://img.shields.io/badge/READ%20MORE%20ARTICLES-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More on Medium" />
+  </a>
+</div>
 
-**Other / Miscellaneous:**  
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=plastic&logo=elasticsearch) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) 
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) 
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) 
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imayushshivam&theme=holi&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imayushshivam&theme=holi&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imayushshivam&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 💻 Tech Stack
+
+<div align="center">
+  
+### 🚀 My Tech Universe
+
+<!-- Animated tech stack header -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
+
+<!-- Primary Tech Stack with Icons in Cards -->
+<div align="center">
+  <!-- <div style="display: flex; justify-content: center; align-items: center; gap: 8px;"> --> 
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="JavaScript icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="FastAPI icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="Node.js icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/>
+    <!-- </div> -->
+  <!-- </div> -->
+  <!-- <div style="display: flex; justify-content: center; align-items: center; gap: 8px;"> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="Docker icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65px" alt="Kubernetes icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="MongoDB icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="PostgreSQL icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis icon"/>
+    <!-- </div> -->
+    <!-- <div align="center" style="width: 140px; height: 112.43px;"> -->
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/>
+    <!-- </div> -->
+   <!-- </div> -->
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
+
+### 📦 Complete Technology Arsenal
+
+<!-- Categorized Tech Stack -->
+<details open>
+<summary><b>🎯 Backend Technologies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Technologies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
+</p>
+</details>
+
+<details >
+<summary><b>💾 Database Technologies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+</p>
+</details>
+
+<details >
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🤖 Data Science & ML</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+</details>
+
+<br/>
+
+<!-- Animated Divider -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
+
+<!-- ### 📈 Technology Proficiency -->
+
+<!-- Technology proficiency bars -->
+<!-- <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Backend Development</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayushshivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=CBD5E1" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Skill Distribution</h4>
+      
+**Backend Development** ████████████████████░ 95%
+      
+**Cloud & DevOps** ███████████████████░░ 90%
+      
+**Frontend Development** ████████████████░░░░░ 80%
+      
+**Database Management** ██████████████████░░░ 85%
+      
+**System Design** ████████████████████░ 92%
+    </td>
+  </tr>
+</table>
+
+<br/> -->
+
+<!-- GitHub Skyline -->
+<!-- <a href="https://skyline.github.com/imayushshivam/2024">
+  <img src="https://img.shields.io/badge/View%20My%202024%20GitHub%20Skyline-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline" />
+</a> -->
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- 3D contribution chart -->
+  <!-- <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imayushshivam/imayushshivam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imayushshivam/imayushshivam/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imayushshivam/imayushshivam/output/github-contribution-grid-snake.svg">
+  </picture> -->
+
+  <!-- Modern stat cards with consistent styling -->
+  <table width="100%" border="0" cellspacing="0" cellpadding="8" style="border:none; border-collapse:collapse;">
+    <tr>
+      <td align="center" width="50%" style="border:none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=imayushshivam&show_icons=true&count_private=true&theme=tokyonight&title_color=6366F1&icon_color=F472B6&text_color=CBD5E1&bg_color=0D1117&hide_border=true&border_radius=10" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%" style="border:none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=imayushshivam&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=6366F1&fire=F472B6&currStreakNum=F472B6&currStreakLabel=CBD5E1&sideNums=6366F1&sideLabels=CBD5E1&border_radius=10" alt="GitHub Streak Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Language stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imayushshivam&layout=compact&theme=tokyonight&title_color=6366F1&text_color=CBD5E1&hide_border=true&bg_color=0D1117&border_radius=10&langs_count=8" width="60%" alt="Top Languages" />
+  
+  <!-- Modern 3D commit graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=imayushshivam&bg_color=0D1117&color=6366F1&line=F472B6&point=FFFFFF&area=true&area_color=6366F140&hide_border=true" width="98%" />
+  </a>
+</div>
+
+## 💡 Skills Spotlight
+
+<div align="center">
+  <!-- Modern tech icons with animation effects -->
+  <!-- <div style="display: flex; flex-direction: row; justify-content: center; flex-wrap: nowrap; gap: 20px; align-items: center; overflow-x: auto; white-space: nowrap;"> -->
+    <!-- <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;"> -->
+      <!-- <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100" alt="Python" /> -->
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
+      <!-- <span>Python</span> -->
+    <!-- </div> -->
+    <!-- <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;"> -->
+      <!-- <img src="https://user-images.githubusercontent.com/94888819/179353484-5e88d582-ebf5-4a23-a233-3bdf37363e9d.gif" width="100" alt="AWS" /> -->
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="100" height="100" />
+      <!-- <span>AWS</span> -->
+    <!-- </div> -->
+    <!-- <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;"> -->
+      <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="100" alt="Docker" /> -->
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height="100" />
+      <!-- <span>Docker</span> -->
+    <!-- </div> -->
+    <!-- <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;"> -->
+      <!-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="100" alt="Kubernetes" /> -->
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="100" height="100" />
+      <!-- <span>Kubernetes</span> -->
+    <!-- </div> -->
+    <!-- <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;"> -->
+      <!-- <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="100" alt="Django" /> -->
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="100" height="100" />
+      <!-- <span>Django</span> -->
+    <!-- </div> -->
+    <!-- <div style="display: inline-flex; flex-direction: column; align-items: center; flex: 0 0 auto; width: auto;"> -->
+      <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React" /> -->
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" height="100" />
+      <!-- <span>React</span> -->
+    <!-- </div> -->
+  <!-- </div> -->
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imayushshivam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imayushshivam&theme=discord&column=8&row=1&margin-w=15&margin-h=15&no-frame=true" width="100%" alt="GitHub Trophies" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💫 Highlights
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imayushshivam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <!-- Modern badges that stand out -->
+  <img src="https://img.shields.io/badge/BUILT_WITH-💜-6366F1?style=for-the-badge&labelColor=0D1117" alt="Built with love" />
+  <img src="https://img.shields.io/badge/CLEAN_CODE-✓-22C55E?style=for-the-badge&labelColor=0D1117" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/COFFEE_POWERED-☕-F59E0B?style=for-the-badge&labelColor=0D1117" alt="Coffee Powered" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=imayushshivam&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Code quote -->
+<div align="center" style="margin: 30px 0;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Developer Quote" />
+</div>
+
+<!-- Spotify integration with modern UI -->
+<div align="center">
+  <h3>🎧 Currently Vibing To</h3>
+  <a href="https://open.spotify.com/user/31i74qthyolmrtbwnkpdeqmbnrde">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=ffffff" alt="Spotify Now Playing" width="70%" />
+  </a>
+</div>
+
+<!-- Profile views counter -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://komarev.com/ghpvc/?username=imayushshivam&style=for-the-badge&color=6366F1" alt="Profile Views" />
+</div>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=120&section=footer" width="100%" />
